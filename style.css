@@ -1,0 +1,19 @@
+div {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+}
+
+.div1 {
+  background-image: url(./images/lifeUnderTheOceanWhite.png);
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+.div2 {
+  background-image: url(./images/lifeUnderTheOceanBlack.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  left: 50%;
+}
